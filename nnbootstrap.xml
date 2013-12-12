@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content" method="upgrade">
+	<name>Content - NN Bootstrap</name>
+	<author>NN-Medienagentur</author>
+	<creationDate>November 2013</creationDate>
+	<copyright>Copyright (C) 2009 - 2013 NN-Medienagentur</copyright>
+	<license>NN-Medienagentur</license>
+	<authorEmail>info@nn-medienagentur.de</authorEmail>
+	<authorUrl>http://www.nn-medienagentur.de</authorUrl>
+	<version>1.0.0</version>
+	<description>Plugin for Wrapper developed by NN-Medienagentur (http://www.nn-medienagentur.de)</description>
+	<files>
+		<filename plugin="nnbootstrap">nnbootstrap.php</filename>
+	</files>
+</extension>
